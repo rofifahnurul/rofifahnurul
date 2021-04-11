@@ -1,5 +1,5 @@
 ### Welcoming everyone on my page 👋
-<img src="https://github-readme-stats.vercel.app/api/?username=rofifahnurul&hide=stars&count_private=true&theme=tokyonight&showicons=true)]()">
+<img src="https://github-readme-stats.vercel.app/api/?username=rofifahnurul&hide=stars&count_private=true&theme=tokyonight&show_icons=true)]()">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofifahnurul&langs_count=5&theme=tokyonight)]()">
 <!--
 **rofifahnurul/rofifahnurul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
