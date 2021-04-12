@@ -1,5 +1,5 @@
 ### Welcoming everyone on my page 👋
-<table>
+<table border="0">
   <tr>
     <td> <img src="https://github-readme-stats.vercel.app/api/?username=rofifahnurul&hide=stars&count_private=true&theme=tokyonight&bg_color=45,28272B,413F49&hide_border=true&show_icons=true)]()"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofifahnurul&layout=compact&theme=tokyonight&bg_color=45,28272B,413F49&langs_count=5&hide_border=true)]()"></td>
