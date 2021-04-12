@@ -1,8 +1,8 @@
 ### Welcoming everyone on my page 👋
-<table border='1'>
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api/?username=rofifahnurul&hide=stars&count_private=true&theme=tokyonight&bg_color=45,28272B,413F49&hide_border=true&show_icons=true)]()"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofifahnurul&layout=compact&theme=tokyonight&bg_color=45,28272B,413F49&langs_count=5&hide_border=true)]()"></td>
+<table border='0'>
+  <tr border='0'>
+    <td border='0'> <img src="https://github-readme-stats.vercel.app/api/?username=rofifahnurul&hide=stars&count_private=true&theme=tokyonight&bg_color=45,28272B,413F49&hide_border=true&show_icons=true)]()"></td>
+    <td border='0'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofifahnurul&layout=compact&theme=tokyonight&bg_color=45,28272B,413F49&langs_count=5&hide_border=true)]()"></td>
   </tr>
 
 </table>
