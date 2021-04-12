@@ -1,6 +1,6 @@
 ### Welcoming everyone on my page 👋
 <img src="https://github-readme-stats.vercel.app/api/?username=rofifahnurul&hide=stars&count_private=true&theme=tokyonight&bg_color=45,28272B,413F49&hide_border=true&show_icons=true)]()">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofifahnurul&layout=compact&langs_count=5&theme=tokyonight)]()">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofifahnurul&layout=compact&bg_color=45,28272B,413F49&langs_count=5&theme=tokyonight)]()">
 <!--
 **rofifahnurul/rofifahnurul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
