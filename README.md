@@ -4,6 +4,7 @@
 
   </head>
   <body>
+    Hi! Welcome on my github. Check my linkedin account for another <a href="https://www.linkedin.com/in/rofifah-nurul-annisa-1608/">Rofifah Nurul Annisa</a>
     <table class= "border-0">
   <tr >
     <td > <img src="https://github-readme-stats.vercel.app/api/?username=rofifahnurul&hide=stars&count_private=true&theme=tokyonight&bg_color=45,28272B,413F49&hide_border=true&show_icons=true)]()"></td>
